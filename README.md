@@ -1,6 +1,6 @@
 # Rating app
 
-[Screenshot](./screenshot.png)
+![Screenshot](./screenshot.png)
 
 This is a rating app that I created using:
 - Svelte
